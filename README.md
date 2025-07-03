@@ -13,7 +13,7 @@
 - `HR Dashboard.png` – Preview image
 
 ## 📚 Dataset Source
-IBM HR Employee Attrition Dataset
+IBM HR Employee Attrition Dataset-->[Click Me](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ## 📈 Insights
 - Majority of attrition occurs in early years
