@@ -19,7 +19,7 @@ IBM HR Employee Attrition Dataset-->[Click Me](https://www.kaggle.com/datasets/p
 - Majority of attrition occurs in early years
 - Overtime and younger employees show higher attrition
 - Sales and R&D are key departments to monitor
-## Summary of Insights
+## Insights
 1.Overall Attrition Rate is ~16%, indicating moderate employee turnover that requires targeted HR attention.
 
 2.Attrition is highest among employees with less than 3 years of tenure, showing early exits as a critical retention risk.
