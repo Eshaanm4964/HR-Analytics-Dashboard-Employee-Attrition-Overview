@@ -8,7 +8,7 @@
 - Interactivity with filters (Gender, OverTime)
 
 ## 📁 Files Included
-- `HR_Attrition_Dashboard.pbix` – Main Power BI file
+- `HR_ANALYTICS_DASHBOARD.pbix` – Main Power BI file
 - `WA_Fn-UseC_-HR-Employee-Attrition.csv` – Source data
 - `HR_Attrition_Dashboard_Overview.png` – Preview image
 
