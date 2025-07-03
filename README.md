@@ -10,7 +10,7 @@
 ## 📁 Files Included
 - `HR_ANALYTICS_DASHBOARD.pbix` – Main Power BI file
 - `WA_Fn-UseC_-HR-Employee-Attrition.csv` – Source data
-- `HR_Attrition_Dashboard_Overview.png` – Preview image
+- `HR Dashboard.png` – Preview image
 
 ## 📚 Dataset Source
 IBM HR Employee Attrition Dataset
